@@ -1,0 +1,4 @@
+<html>
+<head><title>This is the College Portal</title></head>
+<body><h1>Body of the Html Code</h1></body>
+</html>
